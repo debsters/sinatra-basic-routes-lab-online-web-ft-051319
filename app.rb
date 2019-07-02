@@ -8,5 +8,5 @@ class App < Sinatra::Base
   get "/names" do
     "My name is "
   end
-  
+
 end
